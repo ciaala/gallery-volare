@@ -1,0 +1,21 @@
+.gallery-link{
+	position:relative;
+	float:left;
+	background-color: orange;
+	border:none;
+	margin-left: 24px;
+	height: 32px;
+	font-family: monospace;
+	font-size: 24px;
+
+}
+.gallery-container {
+	z-index:-1000;
+}
+.gallery-header {
+	background-color: black;
+	min-width: 100%;
+	padding: 8px;
+	height: 32px;
+
+}
